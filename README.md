@@ -37,7 +37,7 @@
 </a>
 	
 	<a href="https://github.com/osmangokmenx?tab=repositories&q=&type=&language=git&sort="> 
-	<img width ='32px' src='https://camo.githubusercontent.com/2b000d3b9834c0090feb7b1db64c77f28696cbf5b47fcb76c60c072abd174154/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d56696d2d3134316132303f7374796c653d666c6174266c6f676f3d76696d'> 
+	<img width ='32px' src=''> 
 </a>
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
