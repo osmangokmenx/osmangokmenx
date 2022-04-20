@@ -28,7 +28,7 @@
 </a>
 	
 <a href="https://github.com/osmangokmenx">
-	<img width ='32px' src ='https://raw.githubusercontent.com/osmangokmenx/osmangokmenx/image.webp'> 
+	<img width ='32px' src ='https://raw.githubusercontent.com/osmangokmenx/osmangokmenx/main/image.webp'> 
 </a>
 <a href="https://github.com/osmangokmenx">
 	 <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactnative.svg'> 
