@@ -1,8 +1,11 @@
 <h1 align="center">Hi 👋, I'm Osman</h1>
 <h3 align="center">A Full-Stack developer</h3>
 
-- 🌱 I’m currently learning **TypeScript** - 💬 Ask me about **JavaScript, React.js, React Native, Node.js, VI, Linux**
-- 📫 How to reach me **osmangokmenx@gmail.com**
+🌱 I’m currently learning **TypeScript** 
+
+💬 Ask me about **JavaScript, React.js, React Native, Node.js, VI, Linux**
+
+📫 How to reach me **osmangokmenx@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
