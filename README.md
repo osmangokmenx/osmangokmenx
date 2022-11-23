@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Teklif Bilişim<br>🌱 I’m currently learning Swift<br>💬 Ask me about vim, linux, javascript and TypeScript<br>
+🔭 I’m currently working as a freelancer<br>🌱 I’m currently learning Swift<br>💬 Ask me about vim, linux, javascript and TypeScript<br>
 
 
 ## 🌐 Socials:
